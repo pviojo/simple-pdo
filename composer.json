@@ -1,0 +1,16 @@
+{
+    "name": "pviojo/simple-pdo",
+    "description": "A simple PDO Wrapper for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pablo Viojo",
+            "email": "pviojo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": "^5.4"
+	}
+}
